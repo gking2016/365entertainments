@@ -146,7 +146,7 @@ input:focus{
     border-bottom:5px solid #F05454 ;
 } */
 footer{
-    display:flex;
+    display:none;
     width:100%;
     background-color: #F05454;
     color: #FFFFFF;
